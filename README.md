@@ -2,11 +2,18 @@
 ### Hi there 👋
 -->
 
-### Hello World 👋
+
+# Hello World 👋
 
 Hi, I'm Coding Slime, a developer from China.
 
+On May 26, 2023, a day worth commemorating, I joined GitHub community and contributed my first piece of code.
 
+The resources in the open-source field are rich and colorful, and the open-source spirit of the people here is truly admirable.
+
+I hope I can learn more in the community, and I also hope to make more contributions in the open-source field.
+
+Thank you all.
 
 
 
