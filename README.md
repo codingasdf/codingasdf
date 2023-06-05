@@ -2,11 +2,11 @@
 
 
 
-![Coding Slime's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingasdf&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codingasdf&show_icons=true&theme=gruvbox)
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingasdf&layout=compact&theme=gruvbox)
 
 
 
