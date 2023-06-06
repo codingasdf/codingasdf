@@ -99,9 +99,9 @@ Here are some ideas to get you started:
 # 📈 Statistics
 
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codingasdf&show_icons=true&theme=gruvbox)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codingasdf&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codingasdf&layout=compact&theme=gruvbox)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codingasdf&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
