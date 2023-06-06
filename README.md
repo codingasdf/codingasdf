@@ -76,8 +76,7 @@ Here are some ideas to get you started:
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-000?&logo=AutoCAD)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=Adobe%20Photoshop)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere-000?&logo=Adobe%20Premiere%20Pro)
-![Obsidian](https://img.shields.io/badge/-Obsidian-000?&logo=Obsidian)
-![MS Office](https://img.shields.io/badge/-MS%20Office-000?&logo=Microsoft%20Office)
+
 
 
 
