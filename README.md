@@ -7,6 +7,7 @@
 
 Hi, I'm Coding Slime, a developer from China.
 
+<!--
 On May 26, 2023, a day worth commemorating, I joined GitHub community and contributed my first piece of code.
 
 The resources in the open-source field are rich and colorful, and the open-source spirit of the people here is truly admirable.
@@ -14,7 +15,7 @@ The resources in the open-source field are rich and colorful, and the open-sourc
 I hope I can learn more in the community, and I also hope to make more contributions in the open-source field.
 
 Thank you all.
-
+-->
 
 
 
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 # 🚀 Skills
 
 **Languages**
@@ -94,7 +95,7 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![vSphere](https://img.shields.io/badge/-vSphere-000?&logo=VMware)
 ![PVE](https://img.shields.io/badge/-PVE-000?&logo=Proxmox)
-
+-->
 
 
 # 📈 Statistics
@@ -106,12 +107,14 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+<!--
 # 🐞 My Project
 
-
 👇👇👇 over there 👇👇👇
-
-
+<!--
 
 
 
