@@ -5,7 +5,7 @@
 
 # 👋 Hello World
 
-Hi, I'm Coding Slime, a developer from China.
+Hi, I'm CodingSlime, a developer from China.
 
 <!--
 On May 26, 2023, a day worth commemorating, I joined GitHub community and contributed my first piece of code.
